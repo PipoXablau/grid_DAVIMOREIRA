@@ -1,0 +1,37 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+}
+
+.item {
+    margin: 5px;
+    background: tomato;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.item:hover {
+    background-color: white;
+    color: tomato;
+    border: 1px solid tomato;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-size: 1.25em;
+    font-weight: normal;
+    padding: 1rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
