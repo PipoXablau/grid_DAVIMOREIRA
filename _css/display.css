@@ -41,4 +41,9 @@ h1{
     margin: 20px 0 0 0;
     font-size: 1.25em;
     font-weight: normal;
+    padding: 1em;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
 }
